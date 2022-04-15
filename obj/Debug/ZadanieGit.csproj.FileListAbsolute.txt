@@ -1,0 +1,10 @@
+C:\Users\Mikhail\source\repos\ZadanieGit\ZadanieGit\bin\Debug\ZadanieGit.exe.config
+C:\Users\Mikhail\source\repos\ZadanieGit\ZadanieGit\bin\Debug\ZadanieGit.exe
+C:\Users\Mikhail\source\repos\ZadanieGit\ZadanieGit\bin\Debug\ZadanieGit.pdb
+C:\Users\Mikhail\source\repos\ZadanieGit\ZadanieGit\obj\Debug\ZadanieGit.csproj.AssemblyReference.cache
+C:\Users\Mikhail\source\repos\ZadanieGit\ZadanieGit\obj\Debug\ZadanieGit.Form1.resources
+C:\Users\Mikhail\source\repos\ZadanieGit\ZadanieGit\obj\Debug\ZadanieGit.Properties.Resources.resources
+C:\Users\Mikhail\source\repos\ZadanieGit\ZadanieGit\obj\Debug\ZadanieGit.csproj.GenerateResource.cache
+C:\Users\Mikhail\source\repos\ZadanieGit\ZadanieGit\obj\Debug\ZadanieGit.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\ZadanieGit\ZadanieGit\obj\Debug\ZadanieGit.exe
+C:\Users\Mikhail\source\repos\ZadanieGit\ZadanieGit\obj\Debug\ZadanieGit.pdb
